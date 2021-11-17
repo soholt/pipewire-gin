@@ -44,7 +44,7 @@ gnome-shell-extension-prefs
 ```
 
 ---
-Sreenshots: 
+Sreenshots: https://twitter.com/ginsoholt/status/1461014591463436299
 
 ---
 ## ♔ Support [ ☆ ⚛ ☠ ☕](https://ko-fi.com/ginsoholt)
